@@ -171,11 +171,13 @@ h1,h2,h3,h4,h5
 /* start home */       
 #home
 	{
-        background: url('../images/home-bg.jpg');
-        background-size: cover;
+        background: url('../images/copy.jpg');
+        /*background-size: 100px;*/
+        height: auto;
+        width: 500px;
         background-repeat: no-repeat;
         padding-top: 120px;
-        padding-bottom: 140px;
+        padding-bottom: 200px;
         text-align: center;
 	}
 #home h1
